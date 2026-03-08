@@ -1,0 +1,7 @@
+# requirements.txt
+# List Python dependencies here.
+# - torch (for PyTorch)
+# - pandas (for data handling)
+# - matplotlib (for plotting)
+# - scikit-learn (for preprocessing)
+# - lightning (for PyTorch Lightning, if used)

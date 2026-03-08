@@ -1,4 +1,4 @@
-# DeepAR Implementation
+# DeepAR 
 
 A minimalistic, from-scratch implementation of the DeepAR (Probabilistic Forecasting with Autoregressive Recurrent Networks) model using PyTorch.
 
